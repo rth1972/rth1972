@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - **Self-hosting**, **automation**, and **network security**.  
 
 ## 📫 How to Reach Me  
-- **Website:** [robintehofstee.com](https://robintehofstee.com)  
-- **Blog:** [blog.robintehofstee.com](https://blog.robintehofstee.com)  
+- **Website:** [robintehofstee.com](https://robintehofstee.com){:target="_blank"}  
+- **Blog:** [blog.robintehofstee.com](https://blog.robintehofstee.com){:target="_blank"}
 - **GitHub:** [rth1972](https://github.com/rth1972)  
 
 ## ⚡ Fun Fact  
