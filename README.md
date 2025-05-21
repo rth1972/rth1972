@@ -27,5 +27,3 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 I love experimenting with **radio streaming**, and **custom server setups**!  
 
 ---
-
-This version makes your profile **more engaging**, **informative**, and **personalized** based on your interests. Let me know if you'd like any tweaks! 🚀😃
