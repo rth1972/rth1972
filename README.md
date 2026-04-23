@@ -13,7 +13,4 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - **Blog:** [blog.robintehofstee.com](https://blog.robintehofstee.com)
 - **GitHub:** [rth1972](https://github.com/rth1972)  
 
-## ⚡ Fun Fact  
-I love experimenting with **radio streaming**, and **custom server setups**!  
-
 ---
